@@ -1,0 +1,16 @@
+/.vscode
+/__pycache__
+/.DS_Store
+/2020_images_PNG
+/2020_images_BMP
+*.pyc
+
+*.bmp
+*.png
+*.jpg
+*.jpeg
+
+.sigma-data.txt
+.U-data.txt
+.V-data.txt
+huffman.txt
